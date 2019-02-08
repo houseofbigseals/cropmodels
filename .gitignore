@@ -1,0 +1,8 @@
+*.xlsx
+*.pickle
+*.pdf
+*.eps
+*.png
+/.idea
+/venv
+/__pycache__
